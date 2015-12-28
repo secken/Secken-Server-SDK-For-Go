@@ -157,3 +157,4 @@ CheckYangAuthToken接口包含一个必传参数：AuthToken。
 |  500       |       系统错误                |
 |  608       |       验证token不存在           |
 |  609       |       ip地址被禁                |
+
